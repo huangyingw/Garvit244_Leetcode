@@ -12,7 +12,7 @@
 [merge]
 	allow = true
 [branch "dev"]
-    remote = github
+    remote = origin
     merge = refs/heads/dev
 [branch "master"]
     remote = origin
